@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "748467289115",
+    "project_id": "trackeru-db",
+    "storage_bucket": "trackeru-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748467289115:android:de409544e7b6c491ba0cbe",
+        "android_client_info": {
+          "package_name": "com.example.trackeru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748467289115-705jctf1b851r18oei1qqulbh4e9ai28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvq0YC0nR8naDKHY3zBBNqsm_112QKuVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748467289115-705jctf1b851r18oei1qqulbh4e9ai28.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748467289115-7et4nbqrf9pts3esbfln5sng0jo96bkt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trackeru.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
